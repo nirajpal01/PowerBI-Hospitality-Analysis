@@ -1,7 +1,5 @@
 # AtliQ Grands - Hospitality Analytics
-
-
-Welcome to the GitHub repository for **AtliQ Grands - Hospitality Analytics**, a comprehensive Power BI project aimed at enhancing market share and revenue for AtliQ Grands, a luxury business hotel.
+**🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzA2NmQwYjItYTkxMi00NzJhLWEwMTgtZDE2NmMzOTczMmNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection993e9535935deb6acec2)** | **🎥 [Project Video](https://www.linkedin.com/posts/niraj-pal-2802322a5_dataanalytics-powerbi-businessintelligence-activity-7204833769319505923-lxTQ?utm_source=share&utm_medium=member_desktop)
 
 ## Project Overview
 
@@ -62,10 +60,4 @@ AtliQ Grands has been experiencing declining market share and revenue due to com
 
 This project showcases the application of Power BI and SQL skills in the hospitality domain, providing actionable insights for strategic decision-making at AtliQ Grands. For a detailed exploration, view the live dashboard and project video linked below.
 
-### Live Dashboard Link
 
-[AtliQ Grands Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWI1OWY4YWUtNGY2ZS00ZWQxLWJkMDQtYjgzNTBmMGZjNDFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-### Project Video Link
-
-[Watch Project Presentation](https://youtu.be/U5bl7FUnbk0)
